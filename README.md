@@ -1,7 +1,7 @@
 
 # Relógio Dinâmico
 
-![Relógio Digital](./img/relogio.png)
+![Relógio Dinâmico](./img/relogio.png)
 
 Bem-vindo(a) ao repositório do projeto Relógio Dinâmico. Neste projeto, criei um relógio digital simples que exibe as horas, minutos e segundos em tempo real na página HTML. Além disso, implementamos uma interface visual que exibe o relógio com o formato "HH:MM:SS".
 
@@ -43,6 +43,6 @@ Contribuições são bem-vindas! Se você deseja reportar problemas, sugerir mel
 
 ---
 
-Espero que este projeto do Relógio Digital seja útil para você em seus projetos web e que demonstre a simplicidade e eficácia de implementações em JavaScript. Se tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
+Espero que este projeto seja útil para você em seus projetos web e que demonstre a simplicidade e eficácia de implementações em JavaScript. Se tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
 
-Divirta-se e aproveite o Relógio Digital! ⏰
+Aproveite o Relógio Dinâmico! ⏰
