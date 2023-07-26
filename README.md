@@ -1,4 +1,3 @@
-Claro! Vou adicionar essa informação ao README do projeto Relógio Digital. Aqui está a versão atualizada:
 
 # Relógio Dinâmico
 
