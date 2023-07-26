@@ -7,7 +7,7 @@ Bem-vindo(a) ao repositório do projeto Relógio Dinâmico. Neste projeto, criei
 
 ## Demonstração
 
-Você pode conferir uma demonstração do Relógio Digital [aqui](https://github.com/milenaggoes/Relogio-Dinamico.git).
+Você pode conferir uma demonstração do Relógio Digital [aqui](https://milenaggoes.github.io/Relogio-Dinamico/).
 
 ## Visão Geral
 
